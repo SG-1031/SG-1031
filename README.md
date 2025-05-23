@@ -24,7 +24,7 @@ Email: subash_gurung@live.com
 
 ## Professional Experience
 
-**Office of Municipal Executive, Waling Municipality** – Waling, Nepal  
+**2 No. Ward Office, Waling Municipality** – Waling, Nepal  
 **Assistant Computer Operator/Administrative Assistant**  
 *June 2018 – Present*  
 - Managed communication services and reception, handling 20+ daily contacts with high satisfaction.  
@@ -32,7 +32,8 @@ Email: subash_gurung@live.com
 - Processed NPR 800,000+ in taxes annually using Tax Collection Software.  
 - Coordinated 50+ appointments monthly across 6 departments.
 
-**Temporary Secretary, Ward Office No. 3**  
+**3 No. Ward Office, Waling Muncipality**  
+**Temporary Secretary**
 *May 2019 – Jan 2020*  
 - Supported ward chairman and team with secretarial and admin functions.  
 - Drafted budgets, managed programs and services, achieving 15% more public participation.  
@@ -41,7 +42,7 @@ Email: subash_gurung@live.com
 **Shree Bhu. Pu. Sainik English Boarding Higher Secondary School** – Waling, Nepal  
 **Senior Computer Operator**  
 *June 2014 – June 2017*  
-- Maintained computer systems and networks for 500 students.  
+- Maintained computer systems and networks for 500+ students.  
 - Provided technical support, achieving 95% satisfaction in surveys.  
 - Managed IEMIS data entry with 100% accuracy and timeliness.  
 - Supported student academic growth, contributing to a 5% GPA increase.
