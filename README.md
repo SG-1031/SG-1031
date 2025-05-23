@@ -76,7 +76,7 @@ On this GitHub profile, you’ll find:
 If you're looking to collaborate, mentor, or simply connect over cybersecurity, tech, or public service digitization, feel free to reach out.
 - Email: subash_gurung@live.com  
 - [LinkedIn](https://www.linkedin.com/in/subash1031/)  
-- Mobile: +977 980-281-1031; 985-601-1031
+- Mobile: +977 980-281-1031
 
 ---
 
