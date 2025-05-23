@@ -73,17 +73,19 @@ March 2022 – Expected 2026
 
 ## Certifications
 
-- Google Cybersecurity Professional Certificate V2 – 2025  
-- Cisco Junior Cybersecurity Analyst Career Path – 2025  
-- Cisco Cyber Threat Management – 2025  
-- Cisco Network Defense – 2025  
-- Cisco Endpoint Security – 2025  
-- Cisco Network Devices and Initial Configuration – 2025  
-- Cisco Networking Basics – 2025  
-- Cisco Introduction to Cybersecurity – 2024  
-- CS50’s Introduction to Cybersecurity – 2024  
-- LinkedIn Learning: Data Analytics 1 – Foundations – 2024  
-- Alison: ISO 9001:2015 – Quality Management System – 2023
+| Certification Title                                      | Year  |
+|----------------------------------------------------------|-------|
+| Google Cybersecurity Professional Certificate V2         | 2025  |
+| Cisco Junior Cybersecurity Analyst Career Path           | 2025  |
+| Cisco Cyber Threat Management                            | 2025  |
+| Cisco Network Defense                                    | 2025  |
+| Cisco Endpoint Security                                  | 2025  |
+| Cisco Network Devices and Initial Configuration          | 2025  |
+| Cisco Networking Basics                                  | 2025  |
+| Cisco Introduction to Cybersecurity                      | 2024  |
+| CS50’s Introduction to Cybersecurity                     | 2024  |
+| LinkedIn Learning - Data Analytics: 1 Foundations        | 2024  |
+| Alison - ISO 9001:2015 - Quality Management System (QMS) | 2023  |
 
 ---
 
