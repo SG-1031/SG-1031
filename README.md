@@ -59,7 +59,7 @@ Detail-oriented and analytical cybersecurity professional with over 13 years of 
 
 **Waling Multiple Campus** – Waling, Syangja  
 *Bachelor of Information Communication and Technology Education*  
-2022 – Expected 2026
+2022 – 2026 Expected
 
 **National Institute of Open Schooling** – Noida, India  
 *Senior Secondary School Certificate*  
