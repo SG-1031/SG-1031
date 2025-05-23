@@ -1,15 +1,15 @@
-# 👋 Hello, I'm Subash Gurung
+# Hello, I'm Subash Gurung
 📍 Waling – 1, Syangja, Gandaki, Nepal  
 📞 +977 980-281-1031 | Office: +977 63-590017  
 📧 subash_gurung@live.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/subash1031/)  
 
-## 🛡️ Cybersecurity Analyst | Technologist | Lifelong Learner
+## Cybersecurity Analyst | Technologist | Lifelong Learner
 Welcome to my GitHub! I’m a **motivated and detail-oriented Cybersecurity Analyst** with a strong foundation in application and network security. My professional journey is supported by hands-on experience and recognized certifications from **Google**, **Cisco**, and **Harvard’s CS50 program**.
 
 With skills in **Python, SQL**, **SIEM tools**, and **packet sniffers**, I specialize in threat detection and mitigation. I’m passionate about securing APIs, web applications, and hybrid cloud environments. I bring a proactive security mindset, strong problem-solving skills, and a commitment to continuous learning.
 
-## 🧠 Technical Skills
+## Technical Skills
 - **Languages & Scripting:** Python, SQL  
 - **Security Tools:** SIEM (Security Information and Event Management), Packet Sniffers  
 - **Systems & OS:** Linux Command Line, Computer Network Management  
@@ -21,7 +21,7 @@ With skills in **Python, SQL**, **SIEM tools**, and **packet sniffers**, I speci
   - Collaboration & Process Improvement  
   - Event Planning & Coordination  
 
-## 🧾 Certifications
+## Certifications
 - **Google Cybersecurity Professional Certificate V2** – 2025  
 - **Cisco Cybersecurity Career Path (Junior Analyst Track)** – 2025  
   - Cyber Threat Management  
@@ -34,7 +34,7 @@ With skills in **Python, SQL**, **SIEM tools**, and **packet sniffers**, I speci
 - **ISO 9001:2015 - Quality Management System (Alison)** – 2023  
 - **LinkedIn Learning - Data Analytics Foundations** – 2024  
 
-## 💼 Work Experience
+## Work Experience
 ### Office of Municipal Executive – Waling Municipality (July 2018 – Present)  
 **Role: Assistant Computer Operator / Office Assistant Level 4**  
 - Managed public reception, communications, and office coordination  
@@ -53,16 +53,16 @@ With skills in **Python, SQL**, **SIEM tools**, and **packet sniffers**, I speci
 - Provided guidance in academics and career planning  
 - Trained students in digital skills and systems usage  
 
-## 🎓 Education
+## Education
 - **Bachelor of ICT Education (B.Ed. ICT)** – Waling Multiple Campus  
   _Expected Graduation: 2026_  
 - **Senior Secondary School (NIOS, India)** – 2014  
 - **School Leaving Certificate (SLC)** – Bhu. Pu. Sainik School, Waling – 2010  
 
-## 🚀 Career Goals
+## Career Goals
 I aspire to contribute to global cybersecurity efforts by supporting organizations in developing secure applications and infrastructures. My mission is to build safer digital environments through proactive defense, risk mitigation, and knowledge sharing.
 
-## 🔍 GitHub & Portfolio Focus
+## GitHub & Portfolio Focus
 On this GitHub profile, you’ll find:
 - Cybersecurity labs and hands-on challenges  
 - Python scripts for automation and security analysis  
@@ -70,13 +70,13 @@ On this GitHub profile, you’ll find:
 - Compliance and documentation templates (NIST, ISO, GDPR)  
 - Personal learning projects and certifications-related work
 
-> ⚙️ Currently building: My cybersecurity portfolio and practical projects from certifications.
+> Currently building: My cybersecurity portfolio and practical projects from certifications.
 
-## 📫 Let’s Connect!
+## Let’s Connect!
 If you're looking to collaborate, mentor, or simply connect over cybersecurity, tech, or public service digitization, feel free to reach out.
-- 📧 Email: subash_gurung@live.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/subash1031/)  
-- ☎️ Mobile: +977 980-281-1031  
+- Email: subash_gurung@live.com  
+- [LinkedIn](https://www.linkedin.com/in/subash1031/)  
+- Mobile: +977 980-281-1031; 9856011031
 
 ---
 
