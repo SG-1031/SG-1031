@@ -1,7 +1,6 @@
 # Subash Gurung  
 **Cybersecurity Analyst**  
-Waling - 1, Syangja, Gandaki, Nepal  
-Phone: +977 9856011031  
+Gandaki, Nepal    
 Email: subash_gurung@live.com  
 [LinkedIn](https://www.linkedin.com/in/subash1031/) | [GitHub](https://github.com/SG-1031)
 
