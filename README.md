@@ -2,7 +2,7 @@
 **Cybersecurity Analyst**  
 Gandaki, Nepal    
 Email: subash_gurung@live.com  
-[LinkedIn](https://www.linkedin.com/in/subash1031/) | [GitHub](https://github.com/SG-1031)
+[LinkedIn](https://www.linkedin.com/in/subash1031/)
 
 ---
 
