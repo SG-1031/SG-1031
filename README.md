@@ -38,7 +38,7 @@ Detail-oriented and analytical cybersecurity professional with over 13 years of 
 *June 2018 – Present*  
 - Managed communication services and reception, handling 20+ daily contacts with high satisfaction.  
 - Maintained accurate records for 2400+ vital and social security cases (98% accuracy).  
-- Processed NPR 800,000+ in taxes annually using Tax Collection Software.  
+- Processed NPR 900,000+ in taxes annually using Tax Collection Software.  
 - Coordinated 50+ appointments monthly across 6 departments.
 
 **3 No. Ward Office, Waling Municipality** – Waling, Nepal  
