@@ -106,4 +106,4 @@ Detail-oriented and analytical cybersecurity professional with over 13 years of 
 
 **Interests:**  
 - Strong passion for cybersecurity and digital defense  
-- Actively building cybersecurity portfolio ([GitHub](https://github.com/SG-1031))
+- Actively building cybersecurity portfolio ([GitHub](https://github.com/SG-1031))/[LinkedIn](https://www.linkedin.com/in/subash1031/)
