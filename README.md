@@ -62,7 +62,7 @@ Detail-oriented and results-driven ICT Professional with over 13 years of compre
 ## Education
 
 **Waling Multiple Campus** – Waling, Syangja  
-*Bachelor of Information Communication and Technology Education*  
+*Bachelor of Information and Communication Technology Education*  
 2022 – 2026
 
 **National Institute of Open Schooling** – Noida, India  
