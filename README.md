@@ -8,7 +8,7 @@ Email: subash_gurung@live.com
 
 ## Professional Summary
 
-Detail-oriented and analytical cybersecurity professional with over 13 years of IT experience and hands-on expertise in network security, incident response, risk assessment, and system troubleshooting. Proven ability to manage complex administrative and technical operations in public and educational institutions. Certified by Google, Cisco, and Harvard (CS50), with a growing portfolio of cybersecurity assessments. Passionate about safeguarding digital environments and continuously learning in the cybersecurity domain.
+Detail-oriented and results-driven ICT Professional with over 13 years of comprehensive experience in enterprise systems operations, database management, and administrative compliance. Backed by hands-on daily operation of national e-governance web applications (VERSP-MIS, SuTRA) and formal certification in ISO 9001:2015 Quality Management Systems (QMS). Proven track record in multi-tier data validation, error tracking, security auditing, and ensuring rigorous compliance standards under tight regulatory timelines. Uniquely positioned as a power-user-turned-analyst, bridging practical field-level system friction with structured quality assurance.
 
 ---
 
